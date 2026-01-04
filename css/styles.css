@@ -24,6 +24,10 @@ h1, h2, h3, h4, h5, h6, p {
     margin: 0;
 }
 
+h3 {
+    color: #2e2f42;
+}
+
 img {
     display: block;
     max-width: 100%;
@@ -61,7 +65,7 @@ img {
 }
 .header {
     /* font-family: "Roboto", sans-serif; */
-    border-bottom: 1px solid #e7e7f9;
+    border-bottom: 1px solid #e7e9fc;
 }
 .header .container {
     display: flex;
@@ -327,7 +331,7 @@ color: #2e2f42;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
-    margin-bottom: 48px;
+    margin-bottom: 72px;
     color: #2e2f42;
 }
 .portfolio h3 {
@@ -346,7 +350,7 @@ color: #2e2f42;
 
 .portfolio-card-content {
   padding: 32px 16px;
-  border: 1px solid #e7e7f9;
+  border: 1px solid #e7e9fc;
   border-top: none;
 }
 
